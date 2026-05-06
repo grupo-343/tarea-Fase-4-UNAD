@@ -1,0 +1,117 @@
+2026-05-04 21:54:02,564 - INFO - Cliente C001 creado exitosamente
+2026-05-04 21:54:02,564 - INFO - Operación 1 procesada
+2026-05-04 21:54:02,564 - INFO - Cliente C002 creado exitosamente
+2026-05-04 21:54:02,565 - INFO - Operación 2 procesada
+2026-05-04 21:54:02,565 - INFO - Cliente C003 creado exitosamente
+2026-05-04 21:54:02,565 - INFO - Operación 3 procesada
+2026-05-04 21:54:02,565 - ERROR - Error al crear cliente C004: Nombre debe ser string con al menos 2 caracteres
+2026-05-04 21:54:02,565 - INFO - Operación 4 procesada
+2026-05-04 21:54:02,566 - INFO - Servicio Sala A creado
+2026-05-04 21:54:02,566 - INFO - Operación 5 procesada
+2026-05-04 21:54:02,566 - INFO - Servicio Proyector creado
+2026-05-04 21:54:02,566 - INFO - Operación 6 procesada
+2026-05-04 21:54:02,567 - INFO - Servicio Consultoría creado
+2026-05-04 21:54:02,567 - INFO - Operación 7 procesada
+2026-05-04 21:54:02,567 - ERROR - Error servicio Sala X: Precio base debe ser positivo
+2026-05-04 21:54:02,567 - INFO - Operación 8 procesada
+2026-05-04 21:54:02,568 - INFO - Operación 9 procesada
+2026-05-04 21:56:59,442 - INFO - Cliente C001 creado exitosamente
+2026-05-04 21:56:59,443 - INFO - Operación 1 procesada
+2026-05-04 21:56:59,443 - INFO - Cliente C002 creado exitosamente
+2026-05-04 21:56:59,443 - INFO - Operación 2 procesada
+2026-05-04 21:56:59,444 - INFO - Cliente C003 creado exitosamente
+2026-05-04 21:56:59,444 - INFO - Operación 3 procesada
+2026-05-04 21:56:59,444 - ERROR - Error al crear cliente C004: Nombre debe ser string con al menos 2 caracteres
+2026-05-04 21:56:59,444 - INFO - Operación 4 procesada
+2026-05-04 21:56:59,444 - INFO - Servicio Sala A creado
+2026-05-04 21:56:59,445 - INFO - Operación 5 procesada
+2026-05-04 21:56:59,445 - INFO - Servicio Proyector creado
+2026-05-04 21:56:59,445 - INFO - Operación 6 procesada
+2026-05-04 21:56:59,445 - INFO - Servicio Consultoría creado
+2026-05-04 21:56:59,446 - INFO - Operación 7 procesada
+2026-05-04 21:56:59,446 - ERROR - Error servicio Sala X: Precio base debe ser positivo
+2026-05-04 21:56:59,446 - INFO - Operación 8 procesada
+2026-05-04 21:56:59,446 - INFO - Operación 9 procesada
+2026-05-04 21:58:39,790 - INFO - Cliente C001 creado exitosamente
+2026-05-04 21:58:39,790 - INFO - Operación 1 procesada
+2026-05-04 21:58:39,790 - INFO - Cliente C002 creado exitosamente
+2026-05-04 21:58:39,791 - INFO - Operación 2 procesada
+2026-05-04 21:58:39,791 - INFO - Cliente C003 creado exitosamente
+2026-05-04 21:58:39,791 - INFO - Operación 3 procesada
+2026-05-04 21:58:39,791 - ERROR - Error al crear cliente C004: Nombre debe ser string con al menos 2 caracteres
+2026-05-04 21:58:39,792 - INFO - Operación 4 procesada
+2026-05-04 21:58:39,792 - INFO - Servicio Sala A creado
+2026-05-04 21:58:39,792 - INFO - Operación 5 procesada
+2026-05-04 21:58:39,792 - INFO - Servicio Proyector creado
+2026-05-04 21:58:39,792 - INFO - Operación 6 procesada
+2026-05-04 21:58:39,793 - INFO - Servicio Consultoría creado
+2026-05-04 21:58:39,793 - INFO - Operación 7 procesada
+2026-05-04 21:58:39,793 - ERROR - Error servicio Sala X: Precio base debe ser positivo
+2026-05-04 21:58:39,793 - INFO - Operación 8 procesada
+2026-05-04 21:58:39,793 - INFO - Operación 9 procesada
+2026-05-04 22:02:48,134 - INFO - Cliente C001 creado exitosamente
+2026-05-04 22:02:48,134 - INFO - Operación 1 procesada
+2026-05-04 22:02:48,135 - INFO - Cliente C002 creado exitosamente
+2026-05-04 22:02:48,135 - INFO - Operación 2 procesada
+2026-05-04 22:02:48,135 - INFO - Cliente C003 creado exitosamente
+2026-05-04 22:02:48,136 - INFO - Operación 3 procesada
+2026-05-04 22:02:48,136 - ERROR - Error al crear cliente C004: Nombre debe ser string con al menos 2 caracteres
+2026-05-04 22:02:48,136 - INFO - Operación 4 procesada
+2026-05-04 22:02:48,136 - INFO - Servicio Sala A creado
+2026-05-04 22:02:48,136 - INFO - Operación 5 procesada
+2026-05-04 22:02:48,136 - INFO - Servicio Proyector creado
+2026-05-04 22:02:48,137 - INFO - Operación 6 procesada
+2026-05-04 22:02:48,137 - INFO - Servicio Consultoría creado
+2026-05-04 22:02:48,137 - INFO - Operación 7 procesada
+2026-05-04 22:02:48,138 - ERROR - Error servicio Sala X: Precio base debe ser positivo
+2026-05-04 22:02:48,138 - INFO - Operación 8 procesada
+2026-05-04 22:02:48,138 - INFO - Reserva creada para Ana López
+2026-05-04 22:02:48,139 - INFO - Costo calculado para Sala A: 238.0
+2026-05-04 22:02:48,139 - INFO - Reserva confirmada. Costo: 238.0
+2026-05-04 22:02:48,139 - INFO - Operación 9 procesada
+2026-05-04 22:02:48,139 - ERROR - Error reserva: Duración debe ser entero positivo
+2026-05-04 22:02:48,139 - INFO - Operación 10 procesada
+2026-05-04 22:03:54,132 - INFO - Cliente C001 creado exitosamente
+2026-05-04 22:03:54,132 - INFO - Operación 1 procesada
+2026-05-04 22:03:54,132 - INFO - Cliente C002 creado exitosamente
+2026-05-04 22:03:54,133 - INFO - Operación 2 procesada
+2026-05-04 22:03:54,133 - INFO - Cliente C003 creado exitosamente
+2026-05-04 22:03:54,133 - INFO - Operación 3 procesada
+2026-05-04 22:03:54,133 - ERROR - Error al crear cliente C004: Nombre debe ser string con al menos 2 caracteres
+2026-05-04 22:03:54,134 - INFO - Operación 4 procesada
+2026-05-04 22:03:54,134 - INFO - Servicio Sala A creado
+2026-05-04 22:03:54,135 - INFO - Operación 5 procesada
+2026-05-04 22:03:54,135 - INFO - Servicio Proyector creado
+2026-05-04 22:03:54,135 - INFO - Operación 6 procesada
+2026-05-04 22:03:54,136 - INFO - Servicio Consultoría creado
+2026-05-04 22:03:54,136 - INFO - Operación 7 procesada
+2026-05-04 22:03:54,136 - ERROR - Error servicio Sala X: Precio base debe ser positivo
+2026-05-04 22:03:54,136 - INFO - Operación 8 procesada
+2026-05-04 22:03:54,137 - INFO - Reserva creada para Ana López
+2026-05-04 22:03:54,137 - INFO - Costo calculado para Sala A: 238.0
+2026-05-04 22:03:54,137 - INFO - Reserva confirmada. Costo: 238.0
+2026-05-04 22:03:54,137 - INFO - Operación 9 procesada
+2026-05-04 22:03:54,138 - ERROR - Error reserva: Duración debe ser entero positivo
+2026-05-04 22:03:54,138 - INFO - Operación 10 procesada
+2026-05-04 22:07:54,638 - INFO - Cliente C001 creado exitosamente
+2026-05-04 22:07:54,638 - INFO - Operación 1 procesada
+2026-05-04 22:07:54,639 - INFO - Cliente C002 creado exitosamente
+2026-05-04 22:07:54,639 - INFO - Operación 2 procesada
+2026-05-04 22:07:54,639 - INFO - Cliente C003 creado exitosamente
+2026-05-04 22:07:54,640 - INFO - Operación 3 procesada
+2026-05-04 22:07:54,640 - ERROR - Error al crear cliente C004: Nombre debe ser string con al menos 2 caracteres
+2026-05-04 22:07:54,641 - INFO - Operación 4 procesada
+2026-05-04 22:07:54,641 - INFO - Servicio Sala A creado
+2026-05-04 22:07:54,641 - INFO - Operación 5 procesada
+2026-05-04 22:07:54,642 - INFO - Servicio Proyector creado
+2026-05-04 22:07:54,642 - INFO - Operación 6 procesada
+2026-05-04 22:07:54,642 - INFO - Servicio Consultoría creado
+2026-05-04 22:07:54,643 - INFO - Operación 7 procesada
+2026-05-04 22:07:54,643 - ERROR - Error servicio Sala X: Precio base debe ser positivo
+2026-05-04 22:07:54,644 - INFO - Operación 8 procesada
+2026-05-04 22:07:54,644 - INFO - Reserva creada para Ana López
+2026-05-04 22:07:54,644 - INFO - Costo calculado para Sala A: 238.0
+2026-05-04 22:07:54,645 - INFO - Reserva confirmada. Costo: 238.0
+2026-05-04 22:07:54,645 - INFO - Operación 9 procesada
+2026-05-04 22:07:54,645 - ERROR - Error reserva: Duración debe ser entero positivo
+2026-05-04 22:07:54,646 - INFO - Operación 10 procesada
